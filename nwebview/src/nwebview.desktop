@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Web App
+Exec=/home/lukas/Documents/patipati/nwebview/ld-appdir/nwebview "https://www.lukasmoench.de" "Lukas"
+Icon=nwebview
+Type=Application
+Categories=Utility;
+StartupWMClass=nwebview
